@@ -6,6 +6,6 @@ This project is meant to be an IoT air quality system. Intended to integrate IoT
 Components:
 ESP32
 PM2.5 Sensor
-C
+C/C++
 Python
 SQL
